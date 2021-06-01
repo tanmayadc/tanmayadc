@@ -1,0 +1,25 @@
+b {
+	
+}
+body {
+    background-color: aqua;
+    background-image: url('img/tt.jpg');
+    
+}
+.img {
+        width: 1000px;
+        height: 400px;
+}
+label {
+    font-size: xx-large;
+    color: #0be881;
+}
+h1 {
+    font-size: 40px;
+    color: indigo;
+    background-color: darkcyan;
+    
+}
+.footer-area {
+            background-color: darkcyan;
+}
